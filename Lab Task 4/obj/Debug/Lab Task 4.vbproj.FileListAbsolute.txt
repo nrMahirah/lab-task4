@@ -1,0 +1,30 @@
+C:\Users\Aira\AppData\Local\Temporary Projects\Lab Task 4\bin\Debug\Lab Task 4.exe.config
+C:\Users\Aira\AppData\Local\Temporary Projects\Lab Task 4\bin\Debug\Lab Task 4.exe
+C:\Users\Aira\AppData\Local\Temporary Projects\Lab Task 4\bin\Debug\Lab Task 4.pdb
+C:\Users\Aira\AppData\Local\Temporary Projects\Lab Task 4\bin\Debug\Lab Task 4.xml
+C:\Users\Aira\AppData\Local\Temporary Projects\Lab Task 4\obj\Debug\Lab Task 4.vbprojResolveAssemblyReference.cache
+C:\Users\Aira\AppData\Local\Temporary Projects\Lab Task 4\obj\Debug\Lab_Task_4.About.resources
+C:\Users\Aira\AppData\Local\Temporary Projects\Lab Task 4\obj\Debug\Lab_Task_4.FrmLogin.resources
+C:\Users\Aira\AppData\Local\Temporary Projects\Lab Task 4\obj\Debug\Lab_Task_4.Frm2.resources
+C:\Users\Aira\AppData\Local\Temporary Projects\Lab Task 4\obj\Debug\Lab_Task_4.Home.resources
+C:\Users\Aira\AppData\Local\Temporary Projects\Lab Task 4\obj\Debug\Lab_Task_4.Resources.resources
+C:\Users\Aira\AppData\Local\Temporary Projects\Lab Task 4\obj\Debug\Lab_Task_4.SplashScreen.resources
+C:\Users\Aira\AppData\Local\Temporary Projects\Lab Task 4\obj\Debug\Lab Task 4.vbproj.GenerateResource.Cache
+C:\Users\Aira\AppData\Local\Temporary Projects\Lab Task 4\obj\Debug\Lab Task 4.exe
+C:\Users\Aira\AppData\Local\Temporary Projects\Lab Task 4\obj\Debug\Lab Task 4.xml
+C:\Users\Aira\AppData\Local\Temporary Projects\Lab Task 4\obj\Debug\Lab Task 4.pdb
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\Lab Task 4\Lab Task 4\bin\Debug\Lab Task 4.exe.config
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\Lab Task 4\Lab Task 4\obj\Debug\Lab Task 4.exe
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\Lab Task 4\Lab Task 4\obj\Debug\Lab Task 4.xml
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\Lab Task 4\Lab Task 4\obj\Debug\Lab Task 4.pdb
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\Lab Task 4\Lab Task 4\bin\Debug\Lab Task 4.exe
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\Lab Task 4\Lab Task 4\bin\Debug\Lab Task 4.pdb
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\Lab Task 4\Lab Task 4\bin\Debug\Lab Task 4.xml
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\Lab Task 4\Lab Task 4\obj\Debug\Lab Task 4.vbprojResolveAssemblyReference.cache
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\Lab Task 4\Lab Task 4\obj\Debug\Lab_Task_4.About.resources
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\Lab Task 4\Lab Task 4\obj\Debug\Lab_Task_4.FormSoftware.resources
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\Lab Task 4\Lab Task 4\obj\Debug\Lab_Task_4.Home.resources
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\Lab Task 4\Lab Task 4\obj\Debug\Lab_Task_4.Resources.resources
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\Lab Task 4\Lab Task 4\obj\Debug\Lab_Task_4.SplashScreen.resources
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\Lab Task 4\Lab Task 4\obj\Debug\Lab Task 4.vbproj.GenerateResource.Cache
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\Lab Task 4\Lab Task 4\obj\Debug\Lab_Task_4.Login.resources
